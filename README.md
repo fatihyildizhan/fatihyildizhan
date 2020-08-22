@@ -4,7 +4,7 @@ My name is Fatih Yıldızhan,
 
 I am a motivated Software Engineer. I have expertise in working on Start-up companies and delivering full-cycle of products.
 
-![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihyildizhan&show_icons=true)
+![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihyildizhan&show_icons=true&count_private=true)
 
 ## 🧪 Job
 
@@ -27,4 +27,4 @@ You can find and get in touch with me on below accounts!
 
 ## ✨ Support non-profit scientific researches
 
-<a href="https://github.com/sponsors/doxa-labs"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
+<a href="https://github.com/sponsors/doxa-labs" target="_blank"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
