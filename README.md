@@ -4,7 +4,7 @@ My name is Fatih Yıldızhan,
 
 I am a motivated Software Engineer. I have expertise in working on Start-up companies and delivering full-cycle of products.
 
-![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihyildizhan&show_icons=true&count_private=true)
+[![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihyildizhan&show_icons=true&count_private=true)](https://github.com/fatihyildizhan)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihyildizhan&layout=compact)](https://github.com/fatihyildizhan)
 
