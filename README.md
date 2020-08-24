@@ -6,6 +6,8 @@ I am a motivated Software Engineer. I have expertise in working on Start-up comp
 
 ![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihyildizhan&show_icons=true&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihyildizhan&layout=compact)](https://github.com/fatihyildizhan)
+
 ## 🧪 Job
 
 I'm working as a Software Engineer in [Doxa Labs](https://github.com/doxa-labs)
@@ -19,11 +21,17 @@ I'm working as a Software Engineer in [Doxa Labs](https://github.com/doxa-labs)
 
 ## 🐬 How to reach me
 
-You can find and get in touch with me on below accounts!
-
-[![Linkedin Badge](https://img.shields.io/badge/fatihyildizhan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatihyildizhan/)
-
-[![Twitter Badge](https://img.shields.io/badge/fatihyildizhan-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/fatihyildizhan/)
+<a href="https://twitter.com/fatihyildizhan">
+  <img align="left" alt="Fatih's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/fatihyildizhan/">
+  <img align="left" alt="Fatih's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://github.com/fatihyildizhan">
+  <img align="left" alt="Fatih's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
+</a>
+<br/>
+<br/>
 
 ## ✨ Support non-profit scientific researches
 
