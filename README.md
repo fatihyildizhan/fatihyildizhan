@@ -1,12 +1,10 @@
 ## ⭐ Aganta Burina Burinata
 
-My name is Fatih Yıldızhan,
-
 I am a motivated Software Engineer. I have expertise in working on Start-up companies and delivering full-cycle of products.
 
-[![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihyildizhan&show_icons=true&count_private=true)](https://github.com/fatihyildizhan)
+[![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihyildizhan&show_icons=true&count_private=true&theme=dark)](https://github.com/fatihyildizhan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihyildizhan&layout=compact)](https://github.com/fatihyildizhan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihyildizhan&layout=compact&theme=dark)](https://github.com/fatihyildizhan)
 
 ## 🧪 Job
 
@@ -21,15 +19,9 @@ I'm working as a Software Engineer in [Doxa Labs](https://github.com/doxa-labs)
 
 ## 🐬 How to reach me
 
-<a href="https://twitter.com/fatihyildizhan">
-  <img align="left" alt="Fatih's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/fatihyildizhan/">
-  <img align="left" alt="Fatih's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<a href="https://github.com/fatihyildizhan">
-  <img align="left" alt="Fatih's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
-</a>
+[Twitter](https://twitter.com/fatihyildizhan)
+<br/>
+[Linkedin](https://linkedin.com/in/fatihyildizhan)
 <br/>
 <br/>
 
