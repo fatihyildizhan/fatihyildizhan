@@ -11,7 +11,6 @@ I am a motivated Software Engineer. I have expertise in working on Start-up comp
 [Albus](https://albus.org) is a live board that will help you explore any topic you like in new ways, from different perspectives. Think of it as Google meets Pinterest. Probably the most fun way to explore a topic, powered by AI.
 
 - Follow @albusdotorg on [Twitter](https://www.twitter.com/albusdotorg)
-- Join our community on [Community](https://community.albus.org)
 
 ## 🐬 How to reach me
 
